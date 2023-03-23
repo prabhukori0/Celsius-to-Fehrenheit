@@ -1,0 +1,33 @@
+
+body{
+    padding:30px 100px;
+    background-color: rgb(233, 112, 178);
+}
+h1{
+    text-align: center;            
+}
+#container{            
+    text-align: center;
+    background-color: rgba(155, 196, 182, 0.655);
+    font-size: 35px;
+    font-weight: bold;
+    padding: 50px;            
+}
+.inputval{
+    display: inline-block;
+    text-align: center;          
+}
+.inp{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px 15px;
+    margin: 25px;
+    border-color: brown;
+    border-radius: 15px;
+}
+label{
+    color: rgb(2, 25, 60);
+    font-size: 25px;
+}
+
